@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Kariuki
 - 👀 I’m a Web Developer
-- 🌱 I’m currently focused on JavaScript
+- 🌱 I’m currently focused on JavaScript and Php
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me (karisjaymo99@gmail.com)
 
