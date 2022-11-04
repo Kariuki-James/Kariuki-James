@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Kariuki
-- 👀 I’m a Software Engineer
-- 🌱 I’m currently diving into ALX software engineering program
+- 👀 I’m a Junior Software Engineer
+- 🌱 Currently a trainee at ALX Africa.
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me (karisjaymo99@gmail.com)
 
