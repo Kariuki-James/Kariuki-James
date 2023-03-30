@@ -9,7 +9,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jaymo99&label=Profile%20views&color=0e75b6&style=plastic" alt="James Kariuki" /></p>
 
-# Hi there, I'm James 👋 
+# Hello there, I'm James 👋 
 
 I'm a Software engineer looking to collaborate in development projects.
 
