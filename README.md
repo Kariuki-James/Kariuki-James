@@ -38,4 +38,4 @@ I am enrolled in the African Leadership X (Alx) software engineering program, cr
 
 You can reach me via email at [karisjaymo99@gmail.com](mailto:karisjaymo99@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kariuki-jm/).
 
-Thanks for stopping by!
+Thank you for stopping by.
