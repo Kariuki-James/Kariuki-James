@@ -9,11 +9,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jaymo99&label=Profile%20views&color=0e75b6&style=plastic" alt="James Kariuki" /></p>
 
-# Hello there, I'm James 👋 
+# Hello there, I am James 👋 
 
-I'm a Software engineer looking to collaborate in development projects.
+I am a Software engineer, open to collaborating on development projects.
 
-Currently, I am enrolled in Alx SE program provided by Holberton School and sponsored by Alx Africa in partnership with the Mastercard Foundation, where I am honing my skills in full stack web development and expanding my knowledge of modern development technologies.
+I am enrolled in the African Leadership X (Alx) software engineering program crafted by Holberton School and sponsored by Alx Africa in partnership with the Mastercard Foundation. I am honing my software development skills and expanding my knowledge of modern development technologies.
 
 <br><br>
 
