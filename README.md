@@ -13,7 +13,8 @@
 
 I am a Software engineer, open to collaborating on development projects.
 
-I am enrolled in the African Leadership X (ALX) software engineering program, crafted by Holberton School and sponsored by ALX Africa in partnership with the Mastercard Foundation. I am honing my software development skills and expanding my knowledge of modern development technologies.
+I am a proud Alumni of the African Leadership X (ALX) software engineering program, crafted by Holberton School and sponsored by ALX Africa in partnership with the Mastercard Foundation. The program has been a key pillar in my tech journey and expanding my knowledge of modern development technologies.
+#DoHardThings
 
 <br><br>
 
