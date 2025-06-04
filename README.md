@@ -27,12 +27,6 @@ I am a proud Alumni of the African Leadership X (ALX) software engineering progr
 </a>
 </div>
 <br><br>
-<div>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kariuki-James"/>
-</a>
-</div>
-<br><br>
 
 
 ## 📫 How to Reach Me
