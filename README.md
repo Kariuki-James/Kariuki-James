@@ -13,7 +13,8 @@
 
 I am a Software engineer, open to collaborating on development projects.
 
-I am a proud Alumni of the African Leadership X (ALX) software engineering program, crafted by Holberton School and sponsored by ALX Africa in partnership with the Mastercard Foundation. The program has been a key pillar in my tech journey and expanding my knowledge of modern development technologies.
+I am a proud Alumni of the African Leadership X (ALX) software engineering program, crafted by Holberton School and sponsored by ALX Africa in partnership with the Mastercard Foundation. The program has been a key pillar in my tech journey, expanding my knowledge of modern development technologies.
+<br>
 #DoHardThings
 
 <br><br>
@@ -23,7 +24,7 @@ I am a proud Alumni of the African Leadership X (ALX) software engineering progr
 <br>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kariuki-James&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kariuki-James&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs,issues&show=prs_merged,prs_merged_percentage"/>
 </a>
 </div>
 <br><br>
