@@ -24,7 +24,7 @@ I am a proud Alumni of the African Leadership X (ALX) software engineering progr
 <br>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kariuki-James&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs,issues&show=prs_merged,prs_merged_percentage"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kariuki-James&show_icons=true&theme=tokyonight&rank_icon=github&hide=contribs,issues&show=prs_merged,prs_merged_percentage&include_all_commits=true"/>
 </a>
 </div>
 <br><br>
